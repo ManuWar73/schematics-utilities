@@ -5,7 +5,8 @@ consumesPower: false
 acceptsItems: true
 itemCapacity: 60
 requirements: [
-  titanium/30
+  lead/30
+  titanium/20
 ]
 research: router
 category: effect
