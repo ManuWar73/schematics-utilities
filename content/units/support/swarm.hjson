@@ -1,4 +1,5 @@
 name: Swarm
+description: "A miner unit based in the mono."
 type: flying
 flying: true
 defaultController: flyingFollowAi
