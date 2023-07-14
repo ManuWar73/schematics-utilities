@@ -2,7 +2,7 @@ name: Swarm
 description: "A miner unit based in the mono."
 type: flying
 flying: true
-defaultController: flyingFollowAi
+defaultController: FlyingFollowAI
 circleTarget: True
 hitSize: 15
 speed: 4
